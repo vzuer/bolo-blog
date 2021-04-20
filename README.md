@@ -1,4 +1,4 @@
-<p align="center"><img alt="vzuer 的个人网站" src="https://cdn.jsdelivr.net/gh/vzuer/imgpicswh/img/20210407154636.jpg"></p><h2 align="center">
+<p align="center"><img alt="vzuer 的个人网站" src="https://cdn.jsdelivr.net/gh/vzuer/imgpicswh@master/img/20210420140736.jpg"></p><h2 align="center">
 vzuer 的个人网站
 </h2>
 
